@@ -84,6 +84,7 @@ public class AboutActivity extends AppCompatActivity {
         public final static int MPLv2 = 4;
         public final static int Flaticon = 5;
         public final static int TME = 6;
+        public final static int TT = 7;
 
         private String softwareName;
         private String author;
